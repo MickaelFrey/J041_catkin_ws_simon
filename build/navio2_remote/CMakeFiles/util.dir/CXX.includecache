@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/catkin_ws/src/navio2_remote/include/Util.h
+
+/home/pi/catkin_ws/src/navio2_remote/src/Util.cpp
+cstdio
+-
+stdarg.h
+-
+stdlib.h
+-
+errno.h
+-
+fcntl.h
+-
+unistd.h
+-
+Util.h
+/home/pi/catkin_ws/src/navio2_remote/src/Util.h
+

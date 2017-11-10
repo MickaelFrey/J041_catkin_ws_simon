@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/devel
+
+Name: gps_rtk
+Description: Description of gps_rtk
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "gps_rtk")
+set(gps_rtk_MAINTAINER "pi <pi@todo.todo>")
+set(gps_rtk_DEPRECATED "")
+set(gps_rtk_VERSION "0.0.0")
+set(gps_rtk_BUILD_DEPENDS "roscpp" "sensor_msgs")
+set(gps_rtk_RUN_DEPENDS "roscpp" "sensor_msgs")
+set(gps_rtk_BUILDTOOL_DEPENDS "catkin")

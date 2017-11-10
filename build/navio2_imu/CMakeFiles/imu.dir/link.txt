@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,libimu.so -o /home/pi/catkin_ws/devel/lib/libimu.so CMakeFiles/imu.dir/src/MPU9250.cpp.o 

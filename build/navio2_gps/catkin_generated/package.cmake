@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "navio2_gps")
+set(navio2_gps_MAINTAINER "pi <pi@todo.todo>")
+set(navio2_gps_DEPRECATED "")
+set(navio2_gps_VERSION "0.0.0")
+set(navio2_gps_BUILD_DEPENDS "roscpp" "sensor_msgs")
+set(navio2_gps_RUN_DEPENDS "roscpp" "sensor_msgs")
+set(navio2_gps_BUILDTOOL_DEPENDS "catkin")

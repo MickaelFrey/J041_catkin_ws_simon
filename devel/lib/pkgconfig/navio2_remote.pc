@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/devel
+
+Name: navio2_remote
+Description: Description of navio2_remote
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/catkin_ws/devel/lib 
+Requires: 

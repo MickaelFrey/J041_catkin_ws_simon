@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/catkin_ws/src/navio2_remote/include/PWM.h
+stdio.h
+-
+string.h
+-
+stdarg.h
+-
+errno.h
+-
+
+/home/pi/catkin_ws/src/navio2_remote/include/Util.h
+
+/home/pi/catkin_ws/src/navio2_remote/src/PWM.cpp
+PWM.h
+/home/pi/catkin_ws/src/navio2_remote/src/PWM.h
+Util.h
+/home/pi/catkin_ws/src/navio2_remote/src/Util.h
+
